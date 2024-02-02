@@ -1,2 +1,2 @@
 # 360Video-App
-een stage opdracht app 
+an intern assignment
